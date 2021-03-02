@@ -1,0 +1,8 @@
+#The message that we want when the player joins. Use {player} for the player name placeholder.
+joinmessage: '&7{player} has joined the server.'
+
+#The message that we want when the player leaves
+leavemessage: '&7{player} has left the server.'
+
+#The message that we want when the player joins for the first time
+firstjoinmessage: '&7{player} has joined for the first time.'
